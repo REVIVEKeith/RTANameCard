@@ -61,17 +61,17 @@
 
 #back-logo{
     margin-top: 20px;
-    max-width: 60%;
+    max-width: 70%;
 }
 
 #profile{
     margin-top: 10px;
     max-width: 60%;
-    clip-path: circle(75px at center);
+    clip-path: circle(80px at center);
 }
 
 #title-text{
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
 }
 
@@ -81,8 +81,8 @@
 }
 
 #url{
-    font-size:12px;
-    margin-bottom: 10px;
+    font-size:16px;
+    margin-bottom: 20px;
 }
 
 h1,p {
